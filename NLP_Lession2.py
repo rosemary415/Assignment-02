@@ -27,3 +27,4 @@ print(coutent_tmp)
 # print(html)
 # t = jsonpath.jsonpath(dic,'$..s')   #当不存在hehe这个key时，返回false
 # print(t)  #False
+
